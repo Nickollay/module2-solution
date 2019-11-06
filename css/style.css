@@ -4,8 +4,8 @@
 	padding:0;}
 .row {width: 100%}
 .h1 {margin-bottom: 15px;
-	text-align: center;}
-h2{margin: 0}
+	text-align: center; font-size: 1.75em}
+h2{margin: 0; font-size: 1.25em}
 p{
 	margin-right: auto; margin-left: auto; padding-top: 20px
 }
